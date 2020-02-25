@@ -1,0 +1,27 @@
+
+
+#n      Runtime_SQUARE_MATRIXBound_SQUARE_MATRIXRuntime_STRASSEN’S_METHODBound_STRASSEN’S_METHOD
+
+2       0       0       0       0       
+4       0       0       0       0       
+8       0       0       0       0       
+16      0       0       0       0       
+32      0       0       0       0       
+64      997     0       998     0       
+128     4000    0       7935    0       
+256     38850   0       53888   0       
+512     388928  512     382990  512     
+1024    4717788 5120    2717028 3072    
+
+Naive Method Solution
+22  27  22  14  
+38  44  40  28  
+33  40  32  20  
+27  33  26  16  
+Matrix END
+Strassen Method Solution
+22  27  22  14  
+38  44  40  28  
+33  40  32  20  
+27  33  26  16  
+Matrix END
