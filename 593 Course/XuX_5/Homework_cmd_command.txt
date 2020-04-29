@@ -1,0 +1,15 @@
+g++ -o 1 1.cpp>1.dat
+//windows
+1.exe > 1.dat
+//linux:
+./1>1.dat
+more 1.dat
+====================
+gnuplot
+plot "1.dat" using 1:2 with lines lw 2 lc "red", "1.dat" using 1:3 with lines lw 2 lc "pink", "1.dat" using 1:4 with lines lw 2 lc "blue", "1.dat" using 1:5 with lines lw 2 lc "green", 
+set xlabel "Matrix size"
+set ylabel "Microseconds"
+set yrange[0:20]
+replot
+
+plot "1.dat" using 1:11 with lines lw 2 lc "red",  "1.dat" using 1:12 with lines lw 2 lc "blue", "1.dat" using 1:13 with lines lw 2 lc "blue", 

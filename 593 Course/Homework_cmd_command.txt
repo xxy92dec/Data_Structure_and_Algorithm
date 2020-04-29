@@ -12,4 +12,4 @@ set ylabel "Microseconds"
 set yrange[0:20]
 replot
 
-plot "1.dat" using 1:2 with lines lw 2 lc "red",  "1.dat" using 1:4 with lines lw 2 lc "blue", 
+plot "1.dat" using 1:11 with lines lw 2 lc "red",  "1.dat" using 1:12 with lines lw 2 lc "blue", "1.dat" using 1:13 with lines lw 2 lc "blue", 

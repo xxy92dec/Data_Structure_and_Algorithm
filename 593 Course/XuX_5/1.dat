@@ -1,0 +1,50 @@
+For 0 based arrays, ignore A[0].
+#n      RandomS_tCountingS_tBucketS_t
+10      1620    810     5180 
+100     860     880     2460 
+500     590     1310    2200  
+1000    870     1650    5730  
+
+RandomSelect
+lucky number is 8 ; unlucky number is 2 6 9 10 11 .
+probabilities of a lucky winner is 30%; probabilities of a unlucky winner is 0%.
+CountingSort
+lucky number is 8 ; unlucky number is 2 6 9 10 11 .
+probabilities of a lucky winner is 30%; probabilities of a unlucky winner is 0%.
+BucketSort
+lucky number is 8 ; unlucky number is 2 6 9 10 11 .
+probabilities of a lucky winner is 30%; probabilities of a unlucky winner is 0%.
+   
+
+RandomSelect
+lucky number is 6 ; unlucky number is 8 .
+probabilities of a lucky winner is 16%; probabilities of a unlucky winner is 1%.
+CountingSort
+lucky number is 6 ; unlucky number is 8 .
+probabilities of a lucky winner is 16%; probabilities of a unlucky winner is 1%.
+BucketSort
+lucky number is 6 ; unlucky number is 8 .
+probabilities of a lucky winner is 16%; probabilities of a unlucky winner is 1%.
+    
+
+RandomSelect
+lucky number is 2 ; unlucky number is 9 .
+probabilities of a lucky winner is 9.6%; probabilities of a unlucky winner is 6.2%.
+CountingSort
+lucky number is 2 ; unlucky number is 9 .
+probabilities of a lucky winner is 9.6%; probabilities of a unlucky winner is 6.2%.
+BucketSort
+lucky number is 2 ; unlucky number is 9 .
+probabilities of a lucky winner is 9.6%; probabilities of a unlucky winner is 6.2%.
+ 
+
+RandomSelect
+lucky number is 8 ; unlucky number is 9 .
+probabilities of a lucky winner is 9.3%; probabilities of a unlucky winner is 6.3%.
+CountingSort
+lucky number is 8 ; unlucky number is 9 .
+probabilities of a lucky winner is 9.3%; probabilities of a unlucky winner is 6.3%.
+BucketSort
+lucky number is 8 ; unlucky number is 9 .
+probabilities of a lucky winner is 9.3%; probabilities of a unlucky winner is 6.3%. 
+
