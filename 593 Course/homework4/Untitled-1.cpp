@@ -6,10 +6,10 @@
 using namespace std;
 using namespace std::chrono;
 
-int main(){
-	float a = 2;
-	float b = 1;
-	int c = b/a;
-	cout<<c<<endl;
-	return 0;
+int main(int argc, char *argv[])
+{
+    float a = 5.0;
+    for (int i=0;i<20;i++)
+        printf("%f\n", ((float)rand()/(float)(RAND_MAX)) * a);
+    return 0;
 }
